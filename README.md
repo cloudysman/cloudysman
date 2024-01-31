@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloudysman" alt="cloudysman" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloudysman" alt="cloudysman" /></a> </p>
-
 - 💬 Ask me about **Machine learning, deep learning**
 
 - 📫 How to reach me **tronghieu.ghe@gmail.com**
