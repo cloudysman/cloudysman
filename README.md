@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dao Trong Hieu</h1>
 <h3 align="center">I am a normal man</h3>
-
+<img align 'right' alt ="coding" width="400" src= "https://th.bing.com/th/id/OIP.BjnfTDNgyMP7OPgLCyV34QAAAA?rs=1&pid=ImgDetMain">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloudysman&label=Profile%20views&color=0e75b6&style=flat" alt="cloudysman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloudysman" alt="cloudysman" /></a> </p>
