@@ -1,4 +1,3 @@
- ![logo](https://github.com/cloudysman/cloudysman/blob/main/Gojo1.jpg)
 <h1 align="center">Hi 👋, I'm Dao Trong Hieu</h1>
 <h3 align="center">I am a normal man</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/images/4f4c76a141136f02d29451680dfb9bef/tenor.gif?itemid=18749876">
