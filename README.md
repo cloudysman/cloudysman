@@ -17,12 +17,6 @@ I am a researcher at the Posts and Telecommunications Institute of Technology, b
 | scientific computing | NumPy, pandas, Matplotlib, OpenCV |
 | tools | Jupyter, Git, Docker, Linux, LaTeX, Weights & Biases |
 
-## GitHub statistics
-
-![Đào Trọng Hiếu's GitHub statistics](https://github-readme-stats.vercel.app/api?username=cloudysman&show_icons=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudysman&layout=compact)
-
 ## Contact
 
 - email: [tronghieu.ghe@gmail.com](mailto:tronghieu.ghe@gmail.com)
